@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sorabjangir
+- 👋 Hi, I’m S0r4b
 - 👀 I’m interested in ...ethical hacking
 - 🌱 I’m currently learning ...penetration testing
 - 💞️ I’m looking to collaborate on ...
